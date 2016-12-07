@@ -1,0 +1,4 @@
+D:\黎\我的文档\作业\SE\supermarket2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\黎\我的文档\作业\SE\supermarket2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\黎\我的文档\作业\SE\supermarket2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\黎\我的文档\作业\SE\supermarket2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

@@ -1,0 +1,7 @@
+D:\黎\我的文档\作业\SE\supermarket2\DAL\bin\Debug\cs.DAL.dll
+D:\黎\我的文档\作业\SE\supermarket2\DAL\bin\Debug\cs.DAL.pdb
+D:\黎\我的文档\作业\SE\supermarket2\DAL\bin\Debug\cs.Model.dll
+D:\黎\我的文档\作业\SE\supermarket2\DAL\bin\Debug\cs.Model.pdb
+D:\黎\我的文档\作业\SE\supermarket2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\黎\我的文档\作业\SE\supermarket2\DAL\obj\Debug\cs.DAL.dll
+D:\黎\我的文档\作业\SE\supermarket2\DAL\obj\Debug\cs.DAL.pdb

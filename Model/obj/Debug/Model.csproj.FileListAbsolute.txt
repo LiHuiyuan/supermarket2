@@ -1,0 +1,4 @@
+D:\黎\我的文档\作业\SE\supermarket2\Model\bin\Debug\cs.Model.dll
+D:\黎\我的文档\作业\SE\supermarket2\Model\bin\Debug\cs.Model.pdb
+D:\黎\我的文档\作业\SE\supermarket2\Model\obj\Debug\cs.Model.dll
+D:\黎\我的文档\作业\SE\supermarket2\Model\obj\Debug\cs.Model.pdb

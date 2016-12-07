@@ -1,0 +1,4 @@
+D:\黎\我的文档\作业\SE\supermarket2\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\黎\我的文档\作业\SE\supermarket2\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\黎\我的文档\作业\SE\supermarket2\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\黎\我的文档\作业\SE\supermarket2\BussinessLayer\obj\Debug\BussinessLayer.pdb

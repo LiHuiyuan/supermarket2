@@ -1,0 +1,4 @@
+D:\黎\我的文档\作业\SE\supermarket2\BLL\bin\Debug\cs.BLL.dll
+D:\黎\我的文档\作业\SE\supermarket2\BLL\bin\Debug\cs.BLL.pdb
+D:\黎\我的文档\作业\SE\supermarket2\BLL\obj\Debug\cs.BLL.dll
+D:\黎\我的文档\作业\SE\supermarket2\BLL\obj\Debug\cs.BLL.pdb
